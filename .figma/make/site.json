@@ -1,0 +1,10 @@
+{
+  "description": "Creates a heartfelt interactive digital love letter with elegant animations and romantic scenes to celebrate a special monthsary gift.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

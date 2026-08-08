@@ -1,0 +1,8 @@
+node_modules
+.figma
+.vscode
+.mise.toml
+AGENTS.md
+CLAUDE.md
+pnpm-lock.yaml
+public/README-MUSIC.txt
